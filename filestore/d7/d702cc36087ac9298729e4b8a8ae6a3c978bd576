@@ -1,0 +1,6 @@
+
+$o-user-color-palette: map-merge($o-user-color-palette, o-map-omit((
+    'copyright': 'NULL',
+    'copyright-custom': #06090E,
+    // -- hook --
+)));
